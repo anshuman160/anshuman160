@@ -1,39 +1,39 @@
-# Hi 👋, I'm Anshuman Yadav
+# ☁️ System.Anshuman.Yadav()
 
-### Cloud Engineer | Microsoft 365 & Azure Specialist | Web Developer
-
-I am a professional **Cloud Engineer** specializing in the Microsoft ecosystem, including **Azure** and **Microsoft 365**. With a strong background in technical problem-solving and support engineering, I bridge the gap between cloud infrastructure and modern web development.
-
-- ☁️ Currently working extensively with **Azure & M365** environments.
-- 🚀 Recently developed and deployed web solutions for major medical conferences and non-profits.
-- 🛠️ Specialized in **Python (Flask)**, **Tailwind CSS**, and **Cloud Solutions**.
-- 📫 How to reach me: **yadavanshoo123@gmail.com**
+### > Status: Cloud Engineer | M365 & Azure Specialist | Full-Stack Developer
 
 ---
 
-### 🛠️ Languages and Tools
+### 📡 Connection Established
+I specialize in architecting and managing cloud-native infrastructures within the **Microsoft Ecosystem**. From securing **Azure** tenants to building high-availability web platforms, I focus on scalable, secure, and automated solutions.
 
-**Cloud & Infrastructure**
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft-365&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**Development**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* **Current Stack**: Deep-diving into Azure automation and M365 governance.
+* **Infrastructure**: Managing cloud workloads and modernizing legacy environments.
+* **Latest Build**: Developing full-stack platforms for medical conferences and foundations.
+* **Contact**: [yadavanshoo123@gmail.com](mailto:yadavanshoo123@gmail.com).
 
 ---
 
-### 🔥 Featured Projects (2025 - 2026)
+### 🛠️ Technology Stack
 
-* **[IAESCON 2026](https://github.com/anshuman160/iaescon2026)** - Official web platform for the 27th Annual Conference of Endocrine Surgeons. Features a responsive design and streamlined registration workflows.
-* **[SHARDA Foundation](https://github.com/anshuman160/sharda-foundation)** - Developed and deployed a high-performance web presence for this non-profit society to enhance their digital outreach.
-* **Medical Awareness Chatbot** - A specialized AI-driven conversational tool designed to provide accurate information regarding cancer symptoms and prevention.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud Infrastructure** | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![M365](https://img.shields.io/badge/Microsoft_365-0078D4?style=flat-square&logo=microsoft-365&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
+| **Development** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Styling & UI** | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
 ---
 
-### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-yadav-1608/)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnshumanY1608)
+### 📂 Active Production Logs (2025-2026)
+
+* **[IAESCON 2026](https://github.com/anshuman160/iaescon2026)**: A high-performance conference management platform for endocrine surgeons.
+* **[SHARDA Foundation](https://github.com/anshuman160/sharda-foundation)**: A professional digital infrastructure built for medical research and social impact.
+* **[Medical Awareness AI](https://github.com/anshuman160/Medical-bot)**: A specialized conversational engine focused on cancer symptoms and prevention education.
+
+---
+
+### 🤝 Networking Profile
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshuman-yadav-1608/) 
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/AnshumanY1608)
+
+---
