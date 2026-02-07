@@ -6,7 +6,7 @@ I am a professional **Cloud Engineer** specializing in the Microsoft ecosystem, 
 
 - ☁️ Currently working extensively with **Azure & M365** environments.
 - 🚀 Recently developed and deployed web solutions for major medical conferences and non-profits.
-- 🛠️ Specialized in **Python (Flask)**, **Tailwind CSS**, and **Cloud Automation**.
+- 🛠️ Specialized in **Python (Flask)**, **Tailwind CSS**, and **Cloud Solutions**.
 - 📫 How to reach me: **yadavanshoo123@gmail.com**
 
 ---
@@ -16,7 +16,7 @@ I am a professional **Cloud Engineer** specializing in the Microsoft ecosystem, 
 **Cloud & Infrastructure**
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft-365&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 **Development**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,12 +34,6 @@ I am a professional **Cloud Engineer** specializing in the Microsoft ecosystem, 
 
 ---
 
-### 📈 GitHub Stats
-![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshuman160&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman160&layout=compact&theme=tokyonight)
-
----
-
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-yadav-1608/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnshumanY1608)
